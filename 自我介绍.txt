@@ -1,0 +1,24 @@
+Hello everyone, my name is Gavin.It’s a great honar to introduce myself.
+I broned in zhejinagyuyao, I’m 24 years old, I will graduate from HDU in June this year.
+My major is eletronic, and I’m very intersted in programing.
+
+in August last year, my 3 teammates and i work on a project named Indoor security car.
+the function of the car is detect and report the status of the room to the client.
+This car carry many sensors, like infrared, temperature, humidity, combustible gas concentration.
+The car will running in a romm, as the same time, the car will read the data from sensors, 
+and send to client.
+my duty is The design and Implement of Server framework, incluing framework  buindling and communication between client.
+
+advantage/shortcoming
+	I am very patient and considerate.
+	before i work on project, i will put myself in that position, and preview the flow step by step.
+	so i can find more problems and know whether i can figure it out before the start of a project.
+	
+	sometimes i would be stubborn.I would insist on my own opinion until someone prove my opinion was wrong.
+	
+	State Street Technology (Zhejiang) Co., Ltd. is a subsidiary of State Street in China.
+	It research and develop information technology for financial services worldwide and 
+	provides Global Servicing service
+	
+对道富的了解
+快速排序 二叉树遍历	
